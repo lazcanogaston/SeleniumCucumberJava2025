@@ -6,10 +6,11 @@
     <name>Cucumber Selenium Tests</name>
 
     <properties>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <selenium.version>4.16.2</selenium.version>
+
+        <selenium.version>4.28.1</selenium.version>
         <cucumber.version>7.15.0</cucumber.version>
         <webdrivermanager.version>5.6.3</webdrivermanager.version>
         <junit.version>4.13.2</junit.version>
